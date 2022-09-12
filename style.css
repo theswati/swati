@@ -1,0 +1,82 @@
+
+.left-section img{
+    height:400px;
+    width:300px;
+}
+
+
+.flexbox-container{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.upper{
+    color:grey
+}
+.paragraph{
+    color: grey;
+}
+.right-top{
+    font-size:25px;
+}
+.right-section{
+    margin-left: 80px;
+}
+.image-small{
+    height:100px;
+    width:100px;
+    
+
+}
+.bottom-section{
+    margin-top: 20px;
+    background-color: brown;
+    color: azure;
+    border: none;
+    padding:10px;
+
+}
+.price{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.bottom-group{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+
+}
+.p-section{
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid grey;
+    border-right:1px solid grey;
+    padding:10px;
+    padding-top:2px;
+    width:300px;
+    
+}
+.b-section{
+    color:white;
+    background-color: brown;
+    border:none;
+    padding:10px;
+
+} 
+.formclass{
+    padding-left: 20px;
+}
+.b-section{
+    margin-left: 30px;
+   
+   
+}
+.last-section{
+    border:1px solid blueviolet;
+}
+input{
+    border-radius:60px;
+    border:1px solid grey;
+    padding: 12px;
+}
